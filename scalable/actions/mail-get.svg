@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="64.0005" y1="113.6826" x2="64.0005" y2="48.7077">
+		<stop  offset="0" style="stop-color:#00B2DE"/>
+		<stop  offset="1" style="stop-color:#99DBF6"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M107.253,34.988H20.749c-8.879,0-16.078,7.199-16.078,16.076v45.357
+		c0,8.881,7.199,16.078,16.078,16.078h86.504c8.877,0,16.076-7.197,16.076-16.078V51.064
+		C123.329,42.188,116.13,34.988,107.253,34.988z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="3.8637" d="M6.604,43.416l36.029,36.037
+		c0,0,11.473,13.584,21.793,13.584c10.322,0,22.369-13.582,22.369-13.582L121.438,43.5"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="3.8637" x1="9.401" y1="107.809" x2="41.091" y2="77.91"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="3.8637" x1="88.425" y1="77.766" x2="118.599" y2="107.816"/>
+	<path fill="#FFFFFF" d="M105.933,37.797c3.941,0,7.473,1.76,9.875,4.525h1.67c-2.625-3.531-6.816-5.834-11.545-5.834H21.437
+		c-4.729,0-8.92,2.303-11.545,5.834h1.67c2.402-2.766,5.934-4.525,9.875-4.525"/>
+	
+		<radialGradient id="SVGID_2_" cx="-6489.917" cy="3652.293" r="30.6518" gradientTransform="matrix(0.6994 1.000064e-04 -4.763358e-05 -0.6996 4603.2202 2621.0388)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FAFAFA"/>
+		<stop  offset="0.3109" style="stop-color:#F4F4F4"/>
+		<stop  offset="0.7262" style="stop-color:#E3E3E3"/>
+		<stop  offset="1" style="stop-color:#D4D4D4"/>
+	</radialGradient>
+	<path fill="url(#SVGID_2_)" stroke="#059CC2" d="M81.188,74.066c1.133-1.192,1.727-2.562,1.727-4.232
+		c0-1.607-0.597-3.039-1.728-4.23c-1.191-1.131-2.623-1.729-4.229-1.729c-1.67-0.001-3.1,0.597-4.232,1.729l-2.739,2.801
+		l-0.004-21.063c-0.059-1.669-0.596-3.099-1.787-4.231c-1.133-1.193-2.562-1.729-4.172-1.729c-1.668,0-3.096,0.535-4.229,1.729
+		c-1.191,1.131-1.789,2.561-1.789,4.229l0.004,21.063l-2.741-2.801c-1.191-1.133-2.561-1.73-4.23-1.73
+		c-1.609,0-3.039,0.598-4.229,1.729c-1.132,1.19-1.728,2.621-1.728,4.23c0,1.67,0.596,3.041,1.729,4.232l12.991,12.935
+		c1.133,1.191,2.561,1.787,4.229,1.787c1.609,0,3.037-0.594,4.172-1.785L81.188,74.066z"/>
+	<path fill="#059CC2" d="M107.253,109.833H20.749c-8.879,0-16.078-7.197-16.078-16.078v2.667c0,8.881,7.199,16.078,16.078,16.078
+		h86.504c8.877,0,16.076-7.197,16.076-16.078v-2.667C123.329,102.636,116.13,109.833,107.253,109.833z"/>
+</g>
+</svg>
