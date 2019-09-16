@@ -2,154 +2,135 @@
 Name=Milky
 Comment=Milky icon theme of SulinOS
 Comment[tr]=SulinOS Milky simge teması
-DisplayDepth=32
+FollowsColorScheme=true
+Inherits=elementary,breeze,gnome
+Directories=actions,actions/small/16x16,actions/small/22x22,animations,animations/small/16x16,animations/small/22x22,apps,apps/small/16x16,apps/small/22x22,categories,categories/small/16x16,categories/small/22x22,devices,devices/small/16x16,devices/small/22x22,emblems,emblems/small/16x16,emblems/small/22x22,emotes,emotes/small/16x16,emotes/small/22x22,intl,intl/small/16x16,intl/small/22x22,mimetypes,mimetypes/small/16x16,mimetypes/small/22x22,places,places/small/16x16,places/small/22x22,status,status/small/16x16,status/small/22x22
 
-Inherits=Adwaita
-
-Example=folder
-
-LinkOverlay=link
-LockOverlay=lockoverlay
-ShareOverlay=share
-ZipOverlay=zip
-
-DesktopDefault=128
-DesktopSizes=16,22,32,48,64,128,256,512
-ToolbarDefault=22
-ToolbarSizes=16,22,32,48,64,128,256,512
-MainToolbarDefault=22
-MainToolbarSizes=16,22,32,48,64,128,256,512
-SmallDefault=16
-SmallSizes=16,22,32,48,64,128,256,512
-PanelDefault=32
-PanelSizes=16,22,32,48,64,128,256,512
-
-Directories=actions,actions/small/16x16,actions/small/22x22,actions/small/48x48,animations,animations/small/16x16,animations/small/22x22,apps,apps/small/16x16,apps/small/22x22,apps/small/32x32,categories,categories/small/16x16,categories/small/22x22,devices,devices/small/16x16,devices/small/22x22,devices/small/32x32,emblems,emblems/small/16x16,emblems/small/22x22,emotes,emotes/small/16x16,emotes/small/22x22,intl,intl/small/16x16,intl/small/22x22,mimetypes,mimetypes/small/16x16,mimetypes/small/22x22,mimetypes/small/32x32,places,places/small/16x16,places/small/22x22,status,status/small/16x16,status/small/22x22
-
-[8x8/emblems]
+[emblems/small/8x8]
 Size=8
 Context=Emblems
-Type=Threshold
+Type=Scalable
 
-[16x16/actions]
+[actions/small/16x16]
 Size=16
 Context=Actions
-Type=Threshold
+Type=Scalable
 
-[16x16/animations]
+[animations/small/16x16]
 Size=16
 Context=Animations
-Type=Threshold
+Type=Scalable
 
-[16x16/apps]
+[apps/small/16x16]
 Size=16
 Context=Applications
-Type=Threshold
+Type=Scalable
 
-[16x16/categories]
+[categories/small/16x16]
 Size=16
 Context=Categories
-Type=Threshold
+Type=Scalable
 
-[16x16/devices]
+[devices/small/16x16]
 Size=16
 Context=Devices
-Type=Threshold
+Type=Scalable
 
-[16x16/emblems]
+[emblems/small/16x16]
 Size=16
 Context=Emblems
-Type=Threshold
+Type=Scalable
 
-[16x16/emotes]
+[emotes/small/16x16]
 Size=16
 Context=Emotes
-Type=Threshold
+Type=Scalable
 
-[16x16/intl]
+[intl/small/16x16]
 Size=16
 Context=International
-Type=Threshold
+Type=Scalable
 
-[16x16/mimetypes]
+[mimetypes/small/16x16]
 Size=16
 Context=MimeTypes
-Type=Threshold
+Type=Scalable
 
-[16x16/places]
+[places/small/16x16]
 Size=16
 Context=Places
-Type=Threshold
+Type=Scalable
 
-[16x16/status]
+[status/small/16x16]
 Size=16
 Context=Status
-Type=Threshold
+Type=Scalable
 
-[16x16/special]
+[special/small/16x16]
 Size=16
 Context=Actions
-Type=Threshold
+Type=Scalable
 
-[22x22/actions]
+[actions/small/22x22]
 Size=22
 Context=Actions
-Type=Threshold
+Type=Scalable
 
-[22x22/animations]
+[animations/small/22x22]
 Size=22
 Context=Animations
-Type=Threshold
+Type=Scalable
 
-[22x22/apps]
+[apps/small/22x22]
 Size=22
 Context=Applications
-Type=Threshold
+Type=Scalable
 
-[22x22/categories]
+[categories/small/22x22]
 Size=22
 Context=Categories
-Type=Threshold
+Type=Scalable
 
-[22x22/devices]
+[devices/small/22x22]
 Size=22
 Context=Devices
-Type=Threshold
+Type=Scalable
 
-[22x22/emblems]
+[emblems/small/22x22]
 Size=22
 Context=Emblems
-Type=Threshold
+Type=Scalable
 
-[22x22/emotes]
+[emotes/small/22x22]
 Size=22
 Context=Emotes
-Type=Threshold
+Type=Scalable
 
-[22x22/intl]
+[intl/small/22x22]
 Size=22
 Context=International
-Type=Threshold
+Type=Scalable
 
-[22x22/mimetypes]
+[mimetypes/small/22x22]
 Size=22
 Context=MimeTypes
-Type=Threshold
+Type=Scalable
 
-[22x22/places]
+[places/small/22x22]
 Size=22
 Context=Places
-Type=Threshold
+Type=Scalable
 
-[22x22/status]
+[status/small/22x22]
 Size=22
 Context=Status
-Type=Threshold
+Type=Scalable
 
-[22x22/special]
+[special/small/22x22]
 Size=22
 Context=Actions
-Type=Threshold
+Type=Scalable
+
 [apps]
 Size=128
 Context=Applications
