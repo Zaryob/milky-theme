@@ -4,7 +4,7 @@ Comment=Milky icon theme of SulinOS
 Comment[tr]=SulinOS Milky simge teması
 FollowsColorScheme=true
 Inherits=elementary,breeze,gnome
-Directories=actions,actions/small/16x16,actions/small/22x22,animations,animations/small/16x16,animations/small/22x22,apps,apps/small/16x16,apps/small/22x22,categories,categories/small/16x16,categories/small/22x22,devices,devices/small/16x16,devices/small/22x22,emblems,emblems/small/16x16,emblems/small/22x22,emotes,emotes/small/16x16,emotes/small/22x22,intl,intl/small/16x16,intl/small/22x22,mimetypes,mimetypes/small/16x16,mimetypes/small/22x22,places,places/small/16x16,places/small/22x22,status,status/small/16x16,status/small/22x22
+Directories=actions,actions/small/16x16,actions/small/22x22,apps,apps/small/16x16,apps/small/22x22,categories,categories/small/16x16,categories/small/22x22,devices,devices/small/16x16,devices/small/22x22,emblems,emblems/small/16x16,emblems/small/22x22,emotes,emotes/small/16x16,emotes/small/22x22,intl,intl/small/16x16,intl/small/22x22,mimetypes,mimetypes/small/16x16,mimetypes/small/22x22,places,places/small/16x16,places/small/22x22,status,status/small/16x16,status/small/22x22
 
 [emblems/small/8x8]
 Size=8
@@ -16,10 +16,6 @@ Size=16
 Context=Actions
 Type=Scalable
 
-[animations/small/16x16]
-Size=16
-Context=Animations
-Type=Scalable
 
 [apps/small/16x16]
 Size=16
@@ -76,11 +72,6 @@ Size=22
 Context=Actions
 Type=Scalable
 
-[animations/small/22x22]
-Size=22
-Context=Animations
-Type=Scalable
-
 [apps/small/22x22]
 Size=22
 Context=Applications
@@ -130,6 +121,13 @@ Type=Scalable
 Size=22
 Context=Actions
 Type=Scalable
+
+[actions]
+Size=128
+Context=Applications
+Type=Scalable
+MinSize=8
+MaxSize=512
 
 [apps]
 Size=128
