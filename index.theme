@@ -3,7 +3,7 @@ Name=Milky
 Comment=Milky icon theme of SulinOS
 Comment[tr]=SulinOS Milky simge teması
 FollowsColorScheme=true
-Inherits=elementary,breeze,gnome
+Inherits=elementary,breeze,gnome,oxygen,adwaita
 Directories=actions,apps,categories,devices,emotes,mimetypes,places,status
 
 [actions]
